@@ -43,3 +43,9 @@ TF-IDF (Term Frequency–Inverse Document Frequency) is a classic weighting sche
    fisherman 0 3 0
    money 0 1 2
    ```
+
+📄 **License**
+
+MIT © 2025
+
+Feel free to use, modify, and share!
